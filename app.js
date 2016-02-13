@@ -12,7 +12,7 @@ var canvas;
     
     var player1Score = 0;
     var player2Score = 0;
-    const WIN_SCORE = 2;
+    const WIN_SCORE = 5;
     var showWonScreen = false;
 
 function calcMousePos(evt) {
